@@ -1,4 +1,4 @@
-package com.sethpainter.myapplication
+package com.sethpainter.pieface
 
 import android.content.BroadcastReceiver
 import android.content.Context
